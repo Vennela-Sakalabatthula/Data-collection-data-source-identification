@@ -4,7 +4,7 @@
 To identify and collect a reliable dataset for data analysis.
 
 ## Dataset Used
-Sales Dataset from Kaggle
+Student performance Dataset from Kaggle
 
 ## Source Type
 Secondary Data
